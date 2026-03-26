@@ -6,8 +6,8 @@
 
 
 ##  About Me
-- 🔭 I’m currently working on: ComptIA Security ++
-- 🌱 I’m currently learning: SOC
+- 🔭 I’m currently working on: Low Level Programing in Rust
+- 🌱 I’m currently learning: Rust
 - 😄 Pronouns: he/him
 
 
